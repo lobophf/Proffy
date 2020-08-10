@@ -1,4 +1,7 @@
-#Proffy 
+<h1 align="center">
+    <img alt="Proffy" src="https://raw.githubusercontent.com/lobophf/Proffy/19f41c0697df063af1acfb520b57f02d73ff1976/public/images/logo2.svg" height="100px" />
+    <br>Next Level Week #2<br/>
+</h1> 
 
 ## 🗓️ Evento
 Projeto desenvolvido durane o evento da *Next Level Week*, segunda edição (trilha Discovery), realizado pela **[@Rocketseat](https://github.com/Rocketseat)**. O evento ocorreu entre 3 e 9 de agosto de 2020 e as aulas desta trilha foram ministradas pelo ilustríssimo professor e cantor [@MaykBrito](https://github.com/maykbrito/). 🙃 
