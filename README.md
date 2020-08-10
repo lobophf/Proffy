@@ -16,7 +16,7 @@
 </p>
 
 ## :calendar: Evento
-O Projeto foi desenvolvido durante o evento da *Next Level Week*, segunda edição (trilha Discovery), realizado pela **[@Rocketseat](https://github.com/Rocketseat)**. O evento ocorreu entre 3 e 9 de agosto de 2020 e as aulas desta trilha foram ministradas pelo ilustríssimo professor e cantor [@MaykBrito](https://github.com/maykbrito/). :upside_down_face:
+O evento *Next Level Week #2*, foi realizado pela **[@Rocketseat](https://github.com/Rocketseat)** e ocorreu durante entre 3 e 9 de agosto de 2020. As aulas desta trilha foram ministradas pelo ilustríssimo professor e cantor [@MaykBrito](https://github.com/maykbrito/). :upside_down_face:
 ## :hammer_and_wrench: Projeto
 Foi desenvolvido a plataforma fictícia Proffy para conectar quem quer aprender, com quem quer ensinar! As aulas são categorizadas por matérias, para que cada aluno possa escolher entre os professores disponíveis, de acordo com dia da semana e horário.
 
