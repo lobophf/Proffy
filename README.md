@@ -28,7 +28,7 @@ Foi desenvolvido a plataforma fictícia Proffy para conectar quem quer aprender,
 
 ## :wink: Como Executar
 
-### ⚠️ Pré-requisitos ⚠️
+### :warning: Pré-requisitos :warning:
 
   - É **necessário** possuir o **[Node.js](https://nodejs.org/en/)** instalado no computador
   - É **necessário** possuir o **[Git](https://git-scm.com/)** instalado e configurado no computador
