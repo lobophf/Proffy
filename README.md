@@ -36,7 +36,7 @@ Foi desenvolvido a plataforma fictícia Proffy para conectar quem quer aprender,
 
   - É **necessário** possuir o **[Node.js](https://nodejs.org/en/)** instalado no computador
   - É **necessário** possuir o **[Git](https://git-scm.com/)** instalado e configurado no computador
-  - Também, é **preciso** ter o gerenciador de pacotes **[NPM](https://www.npmjs.com/)**.
+  - Também é **preciso** ter o gerenciador de pacotes **[NPM](https://www.npmjs.com/)**.
 
 1. Faça um clone do repositório:
 ```sh
