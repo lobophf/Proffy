@@ -11,6 +11,13 @@
   <a href="#balance_scale-licença">Licença</a>
 </p>
 
+<h1 align="center">
+    <img alt="backgroundImg" src="https://raw.githubusercontent.com/lobophf/Proffy/c6be17fb89a4a5a68d07d5f87ae565513d445d54/public/images/landing.svg" height="300px">
+</h1> 
+
+
+
+
 ## :calendar: Evento
 O Projeto foi desenvolvido durante o evento da *Next Level Week*, segunda edição (trilha Discovery), realizado pela **[@Rocketseat](https://github.com/Rocketseat)**. O evento ocorreu entre 3 e 9 de agosto de 2020 e as aulas desta trilha foram ministradas pelo ilustríssimo professor e cantor [@MaykBrito](https://github.com/maykbrito/). :upside_down_face:
 ## :hammer_and_wrench: Projeto
