@@ -3,7 +3,14 @@
     <br>Next Level Week #2<br/>
 </h1> 
 
-## 🗓️ Evento
+<p align="center">
+  <a href="#calendar-evento">Evento</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#boom-como-executar">Como Executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
+
+## :calendar: Evento
 Projeto desenvolvido durane o evento da *Next Level Week*, segunda edição (trilha Discovery), realizado pela **[@Rocketseat](https://github.com/Rocketseat)**. O evento ocorreu entre 3 e 9 de agosto de 2020 e as aulas desta trilha foram ministradas pelo ilustríssimo professor e cantor [@MaykBrito](https://github.com/maykbrito/). 🙃 
 ## 🔨 Projeto
 Foi desenvolvido a plataforma fictícia Proffy para conectar quem quer aprender, com quem quer ensinar! As aulas são categorizadas por matérias, para que os alunos possam escolher entre os professores disponíveis de acordo com dia da semana e horário.
