@@ -18,7 +18,7 @@
 ## :calendar: Evento
 O evento *Next Level Week #2* realizado pela **[@Rocketseat](https://github.com/Rocketseat)**, correu durante entre 3 e 9 de agosto de 2020. As aulas desta trilha foram ministradas pelo ilustríssimo professor e cantor [@MaykBrito](https://github.com/maykbrito/). :upside_down_face:
 ## :hammer_and_wrench: Projeto
-Foi desenvolvido a plataforma fictícia Proffy para conectar quem quer aprender, com quem quer ensinar! As aulas são categorizadas por matérias, para que cada aluno possa escolher entre os professores, de acordo com dia da semana e horário disponíveis.
+Foi desenvolvido a plataforma fictícia Proffy para conectar quem quer aprender, com quem quer ensinar! As aulas são categorizadas por matérias, para que cada aluno possa escolher entre os proffys, de acordo com dia da semana e horário disponíveis.
 
 ## :rocket: Tecnologias utilizadas
 
