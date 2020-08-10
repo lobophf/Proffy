@@ -61,4 +61,4 @@ Pronto, agora abra o navegador e acesse `https://localhost:5500/`
 
 
 ## :balance_scale: Licença
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE.md](./LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Consulte o arquivo [LICENSE.md](./LICENSE) para mais detalhes.
