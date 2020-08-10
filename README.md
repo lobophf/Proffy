@@ -7,7 +7,8 @@
   <a href="#calendar-evento">Evento</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#hammer_and_wrench-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-tecnologias-utilizadas">Tecnologias utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#wink-como-executar">Como executar</a>
+  <a href="#wink-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#balance_scale-licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 ## :calendar: Evento
@@ -57,3 +58,7 @@ Foi desenvolvido a plataforma fictícia Proffy para conectar quem quer aprender,
   $ node src/server.js
 ```
 Pronto, agora abra o navegador e acesse `https://localhost:5500/`
+
+
+## :balance_scale: Licença
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
